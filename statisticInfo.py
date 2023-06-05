@@ -111,6 +111,6 @@ if __name__ == '__main__':
 
     small_count_dict = count_values_in_ranges(change_region_area_list, small_count_dict)
 
-    print(small_count_dict)
+    print_bar_image(small_count_dict)
 
 

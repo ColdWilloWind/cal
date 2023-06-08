@@ -13,7 +13,7 @@ def load_images_from_folder(folder):
     image_list = []
     for filename in os.listdir(folder):
         if filename.endswith(".png"):
-            img = Image.open(os.path.join(folder, filename))
+            img = os.path.join(folder, filename)
             image_list.append(img)
     return image_list
 

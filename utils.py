@@ -160,7 +160,7 @@ def load_and_print_json(file_path='./res/levir_json/BIT.json'):
         print()
 
 
-def load_and_process_json(file_path, pixel_threshold):
+def load_and_process_json(file_path, pixel_threshold, output_dir):
     """
     根据图片信息的json文件，按照pixel_threshold
     :param file_path:  json文件地址
@@ -171,11 +171,10 @@ def load_and_process_json(file_path, pixel_threshold):
     with open(file_path, 'r') as file:
         json_data = json.load(file)
 
-    output_dir = './res/levir'
-
     # 遍历加载的数据
     for item in json_data:
         image_path = item['image_path']
+        image_mode = item['image_mode']
         image_array = image_to_numpy(image_path)
         areaList = item['areaList']
         for area in areaList:
@@ -193,6 +192,7 @@ def load_and_process_json(file_path, pixel_threshold):
 
         new_image_path = os.path.join(output_dir, image_parent_dir, str(pixel_threshold), os.path.basename(image_path))
         im = Image.fromarray(image_array)
+        im.convert(image_mode)
         im.save(new_image_path)
 
 

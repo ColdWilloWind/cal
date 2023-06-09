@@ -93,10 +93,11 @@ def load_image_info(image_path):
 # 输入图片，将变化区域数量，变化区域像素点个数和位置信息导出到json文件
 if __name__ == '__main__':
 
-    levir_path = './dataset/levir/'
-
-    # levir_path = '/mnt/D/liushuangze/label/LEVIR/'
-    folder_list = get_folder_addresses(levir_path)
+    # levir_path = './dataset/levir/'
+    whu_path = '/mnt/D/liushuangze/label/WHU'
+    # levir_path = '/mnt/D/liushuangze/label/LEVIR'
+    folder_list = get_folder_addresses(whu_path)
+    folder_list.remove('/mnt/D/liushuangze/label/WHU/DTCDSCN/c')
 
     print(folder_list)
 
@@ -111,7 +112,7 @@ if __name__ == '__main__':
             folder_info.append(image_info)
 
         json_data = json.dumps(folder_info, indent=4)
-        json_file_path = f'./res/levir_json/{folder_name}.json'
+        json_file_path = f'./res/whu_json/{folder_name}.json'
         # 将 JSON 数据写入文件
         with open(json_file_path, 'w') as file:
             file.write(json_data)

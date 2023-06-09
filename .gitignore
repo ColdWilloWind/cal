@@ -1,2 +1,4 @@
 .idea
 .gitignore
+res/levir/*
+res/whu/*

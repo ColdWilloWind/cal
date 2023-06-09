@@ -3,7 +3,7 @@ import cv2
 # 计算变化区域数量
 if __name__ == '__main__':
     # 读取标签图像
-    label_image = cv2.imread('./dataset/image/3.png', cv2.IMREAD_GRAYSCALE)  # 替换为你的标签图像路径
+    label_image = cv2.imread('./dataset/image/2.png', cv2.IMREAD_GRAYSCALE)  # 替换为你的标签图像路径
 
     # 使用连通组件标记算法进行标记
     _, labeled_image = cv2.connectedComponents(label_image)

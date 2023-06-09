@@ -1,22 +1,7 @@
 import os
 from PIL import Image
-from coordinate import load_image_info
 import matplotlib.pyplot as plt
-
-
-def load_images_from_folder(folder):
-    """
-
-    :param folder: 文件夹地址
-    :return: folder中的所有 .png 文件
-    """
-    image_list = []
-    for filename in os.listdir(folder):
-        if filename.endswith(".png"):
-            img = os.path.join(folder, filename)
-            image_list.append(img)
-    return image_list
-
+from utils import load_images_from_folder, load_image_info
 
 def print_bar_image(cnt_dict):
     """

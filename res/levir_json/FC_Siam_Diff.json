@@ -1,0 +1,555 @@
+[
+    {
+        "image_path": "./dataset/levir/FC_Siam_Diff\\1.png",
+        "count": 1,
+        "areaList": [
+            {
+                "area": 2,
+                "position": [
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "./dataset/levir/FC_Siam_Diff\\2.png",
+        "count": 31,
+        "areaList": [
+            {
+                "area": 813,
+                "position": [
+                    0,
+                    45
+                ]
+            },
+            {
+                "area": 122,
+                "position": [
+                    0,
+                    73
+                ]
+            },
+            {
+                "area": 635,
+                "position": [
+                    17,
+                    36
+                ]
+            },
+            {
+                "area": 828,
+                "position": [
+                    32,
+                    16
+                ]
+            },
+            {
+                "area": 734,
+                "position": [
+                    32,
+                    160
+                ]
+            },
+            {
+                "area": 832,
+                "position": [
+                    41,
+                    140
+                ]
+            },
+            {
+                "area": 762,
+                "position": [
+                    53,
+                    208
+                ]
+            },
+            {
+                "area": 490,
+                "position": [
+                    54,
+                    0
+                ]
+            },
+            {
+                "area": 803,
+                "position": [
+                    68,
+                    113
+                ]
+            },
+            {
+                "area": 761,
+                "position": [
+                    86,
+                    242
+                ]
+            },
+            {
+                "area": 17,
+                "position": [
+                    88,
+                    0
+                ]
+            },
+            {
+                "area": 721,
+                "position": [
+                    89,
+                    96
+                ]
+            },
+            {
+                "area": 847,
+                "position": [
+                    108,
+                    77
+                ]
+            },
+            {
+                "area": 858,
+                "position": [
+                    116,
+                    223
+                ]
+            },
+            {
+                "area": 913,
+                "position": [
+                    128,
+                    56
+                ]
+            },
+            {
+                "area": 740,
+                "position": [
+                    142,
+                    213
+                ]
+            },
+            {
+                "area": 875,
+                "position": [
+                    149,
+                    173
+                ]
+            },
+            {
+                "area": 837,
+                "position": [
+                    171,
+                    23
+                ]
+            },
+            {
+                "area": 929,
+                "position": [
+                    171,
+                    137
+                ]
+            },
+            {
+                "area": 2,
+                "position": [
+                    175,
+                    254
+                ]
+            },
+            {
+                "area": 63,
+                "position": [
+                    178,
+                    255
+                ]
+            },
+            {
+                "area": 723,
+                "position": [
+                    192,
+                    247
+                ]
+            },
+            {
+                "area": 464,
+                "position": [
+                    193,
+                    0
+                ]
+            },
+            {
+                "area": 842,
+                "position": [
+                    194,
+                    166
+                ]
+            },
+            {
+                "area": 938,
+                "position": [
+                    215,
+                    181
+                ]
+            },
+            {
+                "area": 174,
+                "position": [
+                    216,
+                    214
+                ]
+            },
+            {
+                "area": 43,
+                "position": [
+                    225,
+                    0
+                ]
+            },
+            {
+                "area": 595,
+                "position": [
+                    227,
+                    240
+                ]
+            },
+            {
+                "area": 375,
+                "position": [
+                    239,
+                    72
+                ]
+            },
+            {
+                "area": 339,
+                "position": [
+                    241,
+                    195
+                ]
+            },
+            {
+                "area": 1,
+                "position": [
+                    255,
+                    51
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "./dataset/levir/FC_Siam_Diff\\3.png",
+        "count": 10,
+        "areaList": [
+            {
+                "area": 516,
+                "position": [
+                    13,
+                    162
+                ]
+            },
+            {
+                "area": 610,
+                "position": [
+                    35,
+                    61
+                ]
+            },
+            {
+                "area": 512,
+                "position": [
+                    46,
+                    44
+                ]
+            },
+            {
+                "area": 680,
+                "position": [
+                    53,
+                    156
+                ]
+            },
+            {
+                "area": 366,
+                "position": [
+                    64,
+                    106
+                ]
+            },
+            {
+                "area": 7,
+                "position": [
+                    75,
+                    0
+                ]
+            },
+            {
+                "area": 483,
+                "position": [
+                    80,
+                    34
+                ]
+            },
+            {
+                "area": 478,
+                "position": [
+                    99,
+                    160
+                ]
+            },
+            {
+                "area": 8391,
+                "position": [
+                    129,
+                    66
+                ]
+            },
+            {
+                "area": 2507,
+                "position": [
+                    210,
+                    106
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "./dataset/levir/FC_Siam_Diff\\4.png",
+        "count": 31,
+        "areaList": [
+            {
+                "area": 1339,
+                "position": [
+                    26,
+                    200
+                ]
+            },
+            {
+                "area": 1300,
+                "position": [
+                    32,
+                    107
+                ]
+            },
+            {
+                "area": 226,
+                "position": [
+                    33,
+                    247
+                ]
+            },
+            {
+                "area": 543,
+                "position": [
+                    38,
+                    151
+                ]
+            },
+            {
+                "area": 453,
+                "position": [
+                    38,
+                    186
+                ]
+            },
+            {
+                "area": 526,
+                "position": [
+                    43,
+                    57
+                ]
+            },
+            {
+                "area": 623,
+                "position": [
+                    44,
+                    44
+                ]
+            },
+            {
+                "area": 424,
+                "position": [
+                    44,
+                    81
+                ]
+            },
+            {
+                "area": 599,
+                "position": [
+                    53,
+                    17
+                ]
+            },
+            {
+                "area": 138,
+                "position": [
+                    77,
+                    0
+                ]
+            },
+            {
+                "area": 620,
+                "position": [
+                    105,
+                    204
+                ]
+            },
+            {
+                "area": 496,
+                "position": [
+                    107,
+                    174
+                ]
+            },
+            {
+                "area": 510,
+                "position": [
+                    108,
+                    153
+                ]
+            },
+            {
+                "area": 805,
+                "position": [
+                    109,
+                    120
+                ]
+            },
+            {
+                "area": 451,
+                "position": [
+                    111,
+                    102
+                ]
+            },
+            {
+                "area": 477,
+                "position": [
+                    118,
+                    71
+                ]
+            },
+            {
+                "area": 543,
+                "position": [
+                    137,
+                    41
+                ]
+            },
+            {
+                "area": 493,
+                "position": [
+                    152,
+                    16
+                ]
+            },
+            {
+                "area": 476,
+                "position": [
+                    158,
+                    179
+                ]
+            },
+            {
+                "area": 384,
+                "position": [
+                    167,
+                    0
+                ]
+            },
+            {
+                "area": 645,
+                "position": [
+                    180,
+                    170
+                ]
+            },
+            {
+                "area": 563,
+                "position": [
+                    202,
+                    168
+                ]
+            },
+            {
+                "area": 8,
+                "position": [
+                    213,
+                    255
+                ]
+            },
+            {
+                "area": 390,
+                "position": [
+                    218,
+                    5
+                ]
+            },
+            {
+                "area": 106,
+                "position": [
+                    223,
+                    250
+                ]
+            },
+            {
+                "area": 448,
+                "position": [
+                    225,
+                    170
+                ]
+            },
+            {
+                "area": 570,
+                "position": [
+                    232,
+                    45
+                ]
+            },
+            {
+                "area": 258,
+                "position": [
+                    244,
+                    161
+                ]
+            },
+            {
+                "area": 119,
+                "position": [
+                    245,
+                    246
+                ]
+            },
+            {
+                "area": 117,
+                "position": [
+                    247,
+                    85
+                ]
+            },
+            {
+                "area": 32,
+                "position": [
+                    252,
+                    113
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "./dataset/levir/FC_Siam_Diff\\5.png",
+        "count": 1,
+        "areaList": [
+            {
+                "area": 65536,
+                "position": [
+                    0,
+                    0
+                ]
+            }
+        ]
+    },
+    {
+        "image_path": "./dataset/levir/FC_Siam_Diff\\6.png",
+        "count": 0,
+        "areaList": []
+    }
+]
